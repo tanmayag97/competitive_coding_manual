@@ -2,7 +2,7 @@
 A collection of all interesting questions essential for building concepts in competitive coding <br>
 Most repositories contain solutions in Java, C++.
 
-I have made an attempt to solve all the problems myself and in Python.
+I have made an attempt to solve all the problems myself  in **Python**.
 
 Use ctrl+click to open in a new tab.
 1. [Arrays](https://github.com/tanmayag97/competitive_coding_manual/tree/master/Arrays)
