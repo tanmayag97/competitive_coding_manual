@@ -11,4 +11,4 @@ Array questions
 
 
 Having Doubts?
-Write to me at [@tanmayag97](tanmayag97@gmail.com).
+Write to me at [@tanmayag97](mailto:tanmayag97@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
